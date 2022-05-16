@@ -41,7 +41,7 @@ p {
 .bodyone {
     display: flex;
     flex: 1 0 auto;
-    justify-content: center;
+    justify-content:space-between;
     align-items: center;
     background-color:#444444;
     padding: 100px;
@@ -49,6 +49,9 @@ p {
 .containerone {
     display: flex;
     flex-direction: column;
+}
+.containerone p {
+    width: 350px;
 }
 .headerone {
     font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
