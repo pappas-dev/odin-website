@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
     margin: 0px;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 body {
     display: flex;
@@ -18,13 +19,12 @@ body {
     display: flex;
     list-style: none;
     gap: 30px;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .logo {
     color: aliceblue;
     font-size: 26px;
     font-weight: bold;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
 }
 a {
     color:antiquewhite;
@@ -32,7 +32,6 @@ a {
     font-weight: bold;
 }
 p {
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: aliceblue;
     font-weight: bold;
     text-justify: auto;
@@ -54,7 +53,6 @@ p {
     width: 350px;
 }
 .headerone {
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 36px;
     font-weight: bolder;
     color: aliceblue;
@@ -63,8 +61,7 @@ p {
     width: 400px;
 }
 button {
-    width:100px;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width:120px;
     border-radius: 10px;
     padding: 10px;
     background-color: aliceblue;
@@ -96,7 +93,6 @@ button {
     text-align: center;
 }
 .headertwo {
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 36px;
     font-weight: bold;
     padding-bottom: 20px;
@@ -112,14 +108,12 @@ button {
     padding: 50px;
 }
 .quote {
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 28px;
     width: 70%;
     font-weight: bold;    
     text-align: justify;
 }
 .famous {
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 24px;
     font-style: italic;
     margin-top: 10px;
@@ -136,12 +130,10 @@ button {
     border-radius: 10px;
 }
 .signupheader {
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 28px;
     font-weight: bold; 
 }
 .signuptext {
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 16px;
     font-weight: bold;    
 }
@@ -150,7 +142,6 @@ footer {
     flex-shrink: 0;
     justify-content: center;
     align-items: center;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 16px;
     font-weight: bold;  
     background-color: #222222;
