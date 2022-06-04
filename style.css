@@ -141,11 +141,12 @@ button {
 footer {
     display: flex;
     flex-shrink: 0;
-    justify-content: center;
+    justify-content:space-between;
+    align-items: center;
     font-size: 16px;
     font-weight: bold;  
     background-color: #222222;
     color: aliceblue;
-    padding: 20px;
+    padding: 0 20px;
     margin-top: auto;
 }
